@@ -1,0 +1,223 @@
+	html {
+				background: url(img/phapirus.jpg);
+					}
+
+			body {
+				width: 1000px;
+				height: auto;
+				padding: 0;
+				margin: 0 auto;
+				font-family: Arial, sans-serif;
+				background-color: #fff3e3;
+				background-image: url(img/kol.jpg);
+				background-repeat: no-repeat;
+				padding-top: 210px;
+				border-left: 2px solid lightgrey;
+				border-right: 2px solid lightgrey;
+                border-bottom: 2px solid lightgrey;
+					}
+					
+				A:link { 
+				text-decoration: none;
+					} 
+				A:visited { text-decoration: none; } 
+				A:active { text-decoration: none; }
+				A:hover {
+				text-decoration: none; 
+				color: white;
+					} 
+
+				#hr1 {
+				background-color: rgba(255, 255, 255, .6);
+				height: 100px;	
+				}
+				
+				h1 {
+				color: white;
+				font-size: 45px;
+				padding: 21px 0 0 40px;
+				text-shadow: rgba(0, 0, 0,  .6) 0px 3px 2px;
+				}
+				
+				h2 {
+				font-style: italic;
+				}
+				
+				p {
+				width: 960px;
+				padding-left: 20px;
+				text-indent:50px;
+				font-size: 20px;
+				}
+				
+				#p1 {
+				width: 960px;
+				text-indent:50px;
+				padding-left: 20px;
+				font-style: Arial;
+				font-size: 20px;
+				padding-top: 10px;
+				}
+				
+				h2 {
+				border-bottom: 2px solid lightgrey;
+				margin: 20px 30px 0 30px;
+				padding-top: 20px;
+				}
+				
+                
+				#gera {
+				float:left;
+				border-top: 2px solid lightgrey;
+				border-right: 2px solid lightgrey;
+				border-bottom: 2px solid lightgrey;
+				}
+                
+                #pan {
+				float:right;
+				border-top: 2px solid lightgrey;
+				border-left: 2px solid lightgrey;
+				border-bottom: 2px solid lightgrey;
+				}
+
+				#more {
+                display: block;
+				width: 980px;
+				text-indent:20px;
+				margin-top: 160px;
+				font-size: 17px;
+				border-top: 1px solid grey;
+				border-bottom: 1px solid grey;    
+				}
+                
+                #morebg {
+                background-color: antiquewhite;   
+                }
+
+                #more a{
+				display: block;
+				color: black;
+				height: 50px;
+				text-transform: uppercase;
+				text-decoration: none;
+				line-height:55px;
+				}
+                
+                #morebg2 {
+                background-color: antiquewhite;   
+                }
+                
+                #more:hover {
+				background: #d34d43;
+				}
+                
+                #more2 {
+                display: block;
+				width: 980px;
+				text-indent:0px;
+				margin-top: 160px;
+				font-size: 17px;
+				border-top: 1px solid grey;
+				border-bottom: 1px solid grey;
+				}
+                
+
+                #more2 a{
+				display: block;
+				color: black;
+				height: 50px;
+				text-transform: uppercase;
+				text-decoration: none;
+				line-height:55px;
+				}
+
+                #more2:hover {
+				background: #d34d43;
+				}
+				
+				
+				nav {
+				width: 1000px;
+				margin: 0 auto;
+				position: absolute;
+				}
+				
+				.menu {
+				content"'';
+				display: block;
+				overflow: hidden;
+				background: linear-gradient(to top,lightgrey,antiquewhite );
+				position: fixed;
+				top: 0; 
+				width: 1000px; 
+				height:48px; 
+				border-top: 1px solid lightgrey;
+				border-bottom: 2px solid grey;
+				border-radius: 0px 0px 35px 35px;
+					}
+ 
+				ul li {
+				float:right;
+				}
+				
+				ul li a{
+				display: block;
+				color: black;
+				height: 50px;
+				padding: 0 30px;
+				text-transform: uppercase;
+				text-decoration: none;
+				line-height:50px;
+				}
+				
+				ul {
+				margin: 0;
+				padding 0;
+				list-style: none;
+				height: 50px;	
+				}
+				
+				ul li a:hover {
+				background: #d34d43;
+				}
+			     
+                footer {
+                margin: 0;
+                display: block;
+				color: black;
+				height: 50px;
+				padding: 0;
+				line-height:50px;
+                border-top: 2px solid lightgrey;
+                background-color: antiquewhite
+                    }
+        
+                details {
+                background-color: antiquewhite
+                    }
+                
+                #back {
+                display: block;
+				width: 100px;
+				text-indent:16px;
+				font-size: 14px;
+				border-top: 1px solid grey;
+				border-bottom: 1px solid grey;
+                border-right: 1px solid grey;
+                background-color: antiquewhite;
+                border-radius: 0px 20px 20px 0px;
+                    }
+
+                #back a{
+                display: block;
+				color: black;
+				height: 50px;
+				text-transform: uppercase;
+				text-decoration: none;
+				line-height:55px;
+                    }
+                
+                #back:hover {
+                background: whitesmoke;
+                    }
+      
